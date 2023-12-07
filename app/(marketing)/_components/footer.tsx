@@ -15,6 +15,7 @@ const Footer = (props: Props) => {
         <Button variant="ghost" size="sm">
           Terms & Conditions
         </Button>
+        {/* 1:01:07 */}
       </div>
     </div>
   );
