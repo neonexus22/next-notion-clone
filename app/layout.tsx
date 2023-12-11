@@ -6,6 +6,8 @@ import { ConvexClientProvider } from "@/components/providers/convex-provider";
 
 const inter = Inter({ subsets: ["latin"] });
 
+// this is for test
+
 export const metadata: Metadata = {
   title: "NNotion",
   description: "The connected workspace where better and faster work happens.",
